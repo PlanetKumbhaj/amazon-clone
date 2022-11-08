@@ -1,7 +1,5 @@
-# Amazon-Clone-Mern-Stack
+# Amazon-Clone By PLANETKUMBHAJ
 
-<h3>API Documentation Can be found at</h3>
-<a target="_blank" href="https://documenter.getpostman.com/view/15294592/UVR8qTco">Amazon Clone API Docs</a>
 
 ## Backend Features
 <ul>
@@ -12,9 +10,6 @@
   <li>Search Feature for category and name fields for product</li>
  </ul>
 
-## Cart Feature
-The below image illustrates the working of cart feature
-<img src="cart.png" alt="Cart page" />
 
 
 
